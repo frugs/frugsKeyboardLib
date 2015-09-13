@@ -1,0 +1,3 @@
+LIBRARY   FRUGSKEYBOARDLIB
+EXPORTS
+   ?remapFrugsKeys@@YGJHIJ@Z   @1
